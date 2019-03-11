@@ -2,6 +2,8 @@ joshman
 ====
 One man's opinions of the world around him.
 
+Based on the wildly successful Facebook page [Josh Cameron's Opinions on Things](https://www.facebook.com/MrWorldwidesOpinionsOnThings/)
+
 
 Installation
 ------------
@@ -15,6 +17,15 @@ Otherwise:
 ```bash
 [sudo|rvm] gem install joshman
 ```
+
+Usage
+------------
+
+Open up ```irb``` then try:
+```require "joshman"```
+```Joshman.hi```
+
+
 
 Closing thoughts
 -------------

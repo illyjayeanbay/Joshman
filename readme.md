@@ -22,8 +22,8 @@ Usage
 ------------
 
 Open up ```irb``` then try:
-```require
-"joshman"
+```ruby
+require "joshman"
 Joshman.hi
 ```
 

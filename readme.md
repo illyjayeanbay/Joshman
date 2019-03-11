@@ -14,7 +14,7 @@ gem "joshman"
 
 Otherwise:
 ```bash
-[sudo|rvm] gem install joshman
+gem install joshman
 ```
 
 Usage

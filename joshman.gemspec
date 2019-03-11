@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.date = %q{2019-03-11}
   s.description = %q{One man's opinions}
   s.email = %q{schullerjillian@gmail.com}
-  s.files = ["Rakefile", "lib/joshman.rb", "bin/joshman"]
+  s.files = ["Rakefile", "lib/joshman.rb", "bin/joshman", "lib/opinions.txt"]
   s.test_files = ["test/test_joshman.rb"]
   s.homepage = %q{http://rubygems.org/gems/joshman}
   s.require_paths = ["lib"]

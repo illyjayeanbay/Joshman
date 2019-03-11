@@ -1,9 +1,8 @@
 Joshman
 ====
 
-Based on the wildly successful Facebook page [Josh Cameron's Opinions on Things](https://www.facebook.com/MrWorldwidesOpinionsOnThings/)
+Based on the wildly successful Facebook page [Josh Cameron's Opinions on Things](https://www.facebook.com/MrWorldwidesOpinionsOnThings/).
 
-One man's opinions of the world around him.
 
 Installation
 ------------

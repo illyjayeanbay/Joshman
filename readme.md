@@ -22,8 +22,10 @@ Usage
 ------------
 
 Open up ```irb``` then try:
-```require "joshman"```
-```Joshman.hi```
+```require
+"joshman"
+Joshman.hi
+```
 
 
 

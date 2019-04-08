@@ -12,6 +12,13 @@ class Joshman
   	%x( say "#{opinion}" )
   end
 
+  def self.intention
+    intention_path = File.join( File.dirname(__FILE__), 'intentions.txt' )
+    intention = File.readlines( intention_path ).sample.chomp()
+    puts intention
+    %x( say "#{intention}" )
+  end
+
   def self.tests
   	"i hate tests!"
   end

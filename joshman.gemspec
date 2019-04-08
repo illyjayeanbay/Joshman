@@ -6,14 +6,14 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jillian Schuller"]
   s.date = %q{2019-03-11}
-  s.description = %q{One man's opinions}
+  s.description = %q{check out the facebook page for more}
   s.email = %q{schullerjillian@gmail.com}
   s.files = ["Rakefile", "lib/joshman.rb", "bin/joshman", "lib/opinions.txt"]
   s.test_files = ["test/test_joshman.rb"]
   s.homepage = %q{http://rubygems.org/gems/joshman}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.6.2}
-  s.summary = %q{JCOOT!}
+  s.summary = %q{interesting opinions}
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
@@ -24,4 +24,3 @@ Gem::Specification.new do |s|
   else
   end
 end
-

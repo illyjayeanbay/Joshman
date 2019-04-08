@@ -1,8 +1,8 @@
 class Joshman
   
   def self.hi
-    puts "Hello world, I am Joshman, the founder of the famously successful Facebook page: Josh Cameron's Opinions on Things. Please try Joshman.opinion to get an opinion."
-    %x( say "Hello world, I am Joshman, the founder of the famously successful Facebook page: Josh Cameron's Opinions on Things. Please try Joshman.opinion to get an opinion." )
+    puts "Hello world, I am Joshman, the founder of the famously successful Facebook page: Josh Cameron's Opinions on Things. Please try Joshman.opinion to get an opinion, and Joshman.intention for mindfulness."
+    %x( say "Hello world, I am Joshman, the founder of the famously successful Facebook page: Josh Cameron's Opinions on Things. Please try Joshman.opinion to get an opinion, and Joshman.intention for mindfulness." )
   end
 
   def self.opinion

@@ -6,7 +6,7 @@ class Joshman
   end
 
   def self.opinion
-    opinion_path = File.join( File.dirname(__FILE__), '../opinions.txt' )
+    opinion_path = File.join( File.dirname(__FILE__), 'opinions.txt' )
   	opinion = File.readlines( opinion_path ).sample.chomp()
     puts opinion
   	%x( say "#{opinion}" )
